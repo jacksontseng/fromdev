@@ -1,0 +1,19 @@
+<style>
+
+
+title {
+  text-align: center;
+  color: pink;
+}
+
+
+  body {
+   background-image: url("seattleskyline.jpg");
+   background-size: cover;
+   img {max-width: 100%;
+     text-align: left;
+   height: auto;
+  }
+  </style>
+
+margin: auto;

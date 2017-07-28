@@ -1,0 +1,19 @@
+#android {
+    background: #FFFFFF;
+    font-size: 1.2em;
+    font-family: Calibri;
+    color: #27314A;
+    text-align: center;
+}
+
+.frame {
+    height: 150px;
+    width: 120px;
+    float: left;
+    margin: 45px 0px 100px 94.5px;
+    /* margin: top right bottom left; */
+    border: 3px solid #FFFFFF;
+    box-shadow: 7px 7px 40px #606060;
+    outline: 10px solid #000;
+    /* don't include outline when determining margin for positioning! */
+}
